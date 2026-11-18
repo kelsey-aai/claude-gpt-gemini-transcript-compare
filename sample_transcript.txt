@@ -1,0 +1,6 @@
+Speaker A: Thanks for joining. We need to decide on the Q1 launch date today.
+Speaker B: Engineering can ship the beta by January 15 if design hands off by December 20.
+Speaker A: Priya, can you confirm the design handoff date with your team by Friday?
+Speaker C: Yes, I'll confirm by Friday and send the final mocks.
+Speaker B: I'll book the load test for the week of January 5.
+Speaker A: Great. Let's lock January 15 for the beta and review again next Tuesday.

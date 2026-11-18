@@ -1,0 +1,6 @@
+{
+  "name": "claude-gpt-gemini-transcript-compare",
+  "private": true,
+  "type": "module",
+  "dependencies": { "openai": "^4.0.0" }
+}
